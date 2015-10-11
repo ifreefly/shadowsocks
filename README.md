@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+从shadowsocks主分支被删的前一个版本拷贝出来的
 shadowsocks
 ===========
 
